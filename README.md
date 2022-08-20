@@ -7,7 +7,7 @@ O projeto teve como objetivo clonar a tela de login da Netflix e foi construído
 
 ## Layout
 
-![Tela Netlflix](https://user-images.githubusercontent.com/89217325/185724632-2efdd785-2482-45e6-9654-fcec9c088bdf.jpeg)
+![Tela netflix_2](https://user-images.githubusercontent.com/89217325/185754857-b194b53c-47e0-4a11-b7e1-150cdd65e4d0.jpeg)
 
 # Tecnologias utilizadas
 ## Front End
